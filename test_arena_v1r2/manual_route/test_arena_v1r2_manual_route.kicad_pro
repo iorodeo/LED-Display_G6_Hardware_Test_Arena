@@ -139,7 +139,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -431,7 +431,7 @@
       "extra_units": "error",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
-      "four_way_junction": "ignore",
+      "four_way_junction": "warning",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
@@ -448,14 +448,14 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
@@ -469,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test_arena_pwr_gnd_route.kicad_pro",
+    "filename": "test_arena_v1r2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -502,7 +502,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.3,
         "via_diameter": 0.6,
         "via_drill": 0.3
       }
@@ -530,7 +530,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "test_arena.dsn",
+      "specctra_dsn": "test_arena_v1r2.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -582,6 +582,12 @@
           "group_by": false,
           "label": "LCSC Part #",
           "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "FT Rotation Offset",
+          "name": "FT Rotation Offset",
           "show": true
         },
         {
@@ -677,7 +683,7 @@
   "text_variables": {
     "BoardName": "RP2354 Test Arena",
     "Designer": "Reiser Lab",
-    "Revision": "1",
+    "Revision": "2",
     "Version": "1"
   }
 }

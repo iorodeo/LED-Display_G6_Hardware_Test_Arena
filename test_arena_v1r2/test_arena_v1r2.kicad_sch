@@ -3320,16 +3320,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Add Teensy GPIO test points!"
-		(exclude_from_sim no)
-		(at 96.774 -7.62 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-			)
-		)
-		(uuid "00fbc15d-6daa-412e-ae98-ef076b9f08ae")
-	)
 	(text "Test Points"
 		(exclude_from_sim no)
 		(at 290.068 71.12 90)
@@ -5673,6 +5663,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 293.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4686701b-3590-4c02-b6eb-0a9ab8fe4064")
 		)
@@ -6453,6 +6452,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 196.85 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "813010e1-0d8a-411c-868e-240622ae3b06")
 		)
@@ -6675,6 +6683,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 41.91 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "302affbe-50a8-4b32-806a-d026c6d77994")
 		)
@@ -6747,6 +6764,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 238.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7179,6 +7205,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e568deab-1eef-4abd-a7bc-5b6b673aa947")
 		)
@@ -7246,6 +7281,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4dc6c167-2147-4876-bfd4-7392a37703c3")
 		)
@@ -7306,6 +7350,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7701,6 +7754,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8140,6 +8202,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 41.91 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "302affbe-50a8-4b32-806a-d026c6d77995")
 		)
@@ -8214,6 +8285,15 @@
 			)
 		)
 		(property "Description" "Dual Buffer, Schmitt Triggered, Low-Voltage CMOS"
+			(at 196.85 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7836"
 			(at 196.85 142.24 0)
 			(effects
 				(font
@@ -8302,6 +8382,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 196.85 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4686701b-3590-4c02-b6eb-0a9ab8fe4065")
 		)
@@ -8382,6 +8471,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 196.85 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "269bfa0a-81ef-476c-b8df-8b625fa86541")
 		)
@@ -8454,6 +8552,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8616,6 +8723,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 245.11 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "813010e1-0d8a-411c-868e-240622ae3b07")
 		)
@@ -8689,6 +8805,15 @@
 			)
 		)
 		(property "Description" "Dual Buffer, Schmitt Triggered, Low-Voltage CMOS"
+			(at 35.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7836"
 			(at 35.56 114.3 0)
 			(effects
 				(font
@@ -8845,7 +8970,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1525"
+		(property "LCSC Part #" "C84455"
 			(at 303.53 29.21 0)
 			(effects
 				(font
@@ -8997,6 +9122,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "798dbd8b-000c-46b6-bba8-5aed264c7e4d")
 		)
@@ -9123,6 +9257,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9412,9 +9555,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "821a555d-7810-4306-a997-913cc2854fbb")
 		(property "Reference" "J3"
 			(at 212.09 233.6801 0)
@@ -9815,6 +9958,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "813010e1-0d8a-411c-868e-240622ae3b08")
 		)
@@ -10115,6 +10267,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7836"
+			(at 196.85 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4686701b-3590-4c02-b6eb-0a9ab8fe4066")
 		)
@@ -10253,6 +10414,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 238.76 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11728,6 +11898,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4c67a628-d2b5-4755-8b44-fbf698b80bbf")
 		)
@@ -11936,6 +12115,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 64.77 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "db48f2d2-1ba1-4e01-90c4-839a166a49c7")
 		)
@@ -11956,9 +12144,9 @@
 		(at 105.41 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "debe9fa6-28ac-4c2f-8d3e-8c3c2cf6c9f8")
 		(property "Reference" "U1"
@@ -12211,6 +12399,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C492401"
+			(at 175.26 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 175.26 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8acc9723-a87a-4cc2-8539-233c9d2b6418")
 		)
@@ -12409,6 +12615,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25105"
+			(at 238.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a7a67427-a976-4d07-85b2-fc0def185b70")
 		)
@@ -12534,6 +12749,15 @@
 			)
 		)
 		(property "Description" "Dual Buffer, Schmitt Triggered, Low-Voltage CMOS"
+			(at 196.85 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7836"
 			(at 196.85 48.26 0)
 			(effects
 				(font
